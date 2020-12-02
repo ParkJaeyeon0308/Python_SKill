@@ -8,6 +8,7 @@ import pytz
 import os
 from tkinter import messagebox as msg
 
+#전체를 통괄하는 클래스
 class Planerlist:
     def __init__(self):
 
